@@ -17,7 +17,3 @@ Specializing in interactive dashboards, SQL reporting, and EDA.
 ---
 📫 muhammadhesham837@gmail.com
 🔗 [LinkedIn]([https://linkedin.com/in/muhammad-salem-464754374/](https://www.linkedin.com/in/muhammad-hesham-464754374/))
-4
-Fill in your profile info
-
-Go to Settings → Profile. Add: a photo (professional or clean headshot), bio ("Data Analyst | Power BI · SQL · Python"), your location (Alexandria, Egypt), and your LinkedIn URL. This all shows on your public profile.
