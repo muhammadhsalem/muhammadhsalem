@@ -16,4 +16,4 @@ Specializing in interactive dashboards, SQL reporting, and EDA.
 
 ---
 📫 muhammadhesham837@gmail.com
-🔗 [LinkedIn]([https://linkedin.com/in/muhammad-salem-464754374/](https://www.linkedin.com/in/muhammad-hesham-464754374/))
+🔗 [LinkedIn](www.linkedin.com/in/muhammad-hesham-464754374)
