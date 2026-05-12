@@ -1,16 +1,23 @@
-## Hi there 👋
+# Muhammad Hesham Salem
+### Data Analyst | Power BI · SQL · Python · Excel
 
-<!--
-**muhammadhsalem/muhammadhsalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn raw data into clear decisions.
+Specializing in interactive dashboards, SQL reporting, and EDA.
 
-Here are some ideas to get you started:
+**Skills:** Python · pandas · NumPy · SQL · Power BI · DAX · Excel · Tableau · ETL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Projects
+| Project | Tools | Description |
+|---|---|---|
+| [Netflix Content Analysis](https://github.com/YOUR-USERNAME/netflix-dashboard) | Excel, Power BI | 6,000+ titles analyzed across genres, countries & ratings |
+| [Sales Performance Dashboard](https://github.com/YOUR-USERNAME/sales-dashboard) | MySQL, Power BI | Automotive sales KPIs across 10+ countries |
+
+---
+📫 muhammadhesham837@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/muhammad-salem-464754374/)
+4
+Fill in your profile info
+
+Go to Settings → Profile. Add: a photo (professional or clean headshot), bio ("Data Analyst | Power BI · SQL · Python"), your location (Alexandria, Egypt), and your LinkedIn URL. This all shows on your public profile.
