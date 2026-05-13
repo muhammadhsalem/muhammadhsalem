@@ -6,6 +6,9 @@ Specializing in interactive dashboards, SQL reporting, and EDA.
 
 **Skills:** Python · pandas · NumPy · SQL · Power BI · DAX · Excel · Tableau · ETL
 
+Currently seeking my first data analyst role.
+Open to local, remote, and freelance opportunities.
+
 ---
 
 ### Projects
