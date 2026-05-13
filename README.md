@@ -11,7 +11,7 @@ Specializing in interactive dashboards, SQL reporting, and EDA.
 ### Projects
 | Project | Tools | Description |
 |---|---|---|
-| [Netflix Content Analysis](https://github.com/YOUR-USERNAME/netflix-dashboard) | Excel, Power BI | 6,000+ titles analyzed across genres, countries & ratings |
+| [Netflix Content Analysis](https://github.com/muhammadhsalem/netflix-dashboard) | Excel, Power BI | 6,000+ titles analyzed across genres, countries & ratings |
 | [Sales Performance Dashboard](https://github.com/YOUR-USERNAME/sales-dashboard) | MySQL, Power BI | Automotive sales KPIs across 10+ countries |
 
 ---
