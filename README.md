@@ -1,13 +1,13 @@
 # Muhammad Hesham Salem
 ### Data Engineer | SQL · Python · Power BI ·  Excel
 
-I turn raw data into clear decisions.
-Specializing in interactive dashboards, SQL reporting, and EDA.
+Turn raw data into clean, reliable, decision-ready outputs — building SQL pipelines and well-modeled data, then surfacing the insights that drive decisions.
+Specializing in SQL ETL, data modeling, and data quality, with hands-on analytics: interactive dashboards, SQL reporting, and EDA.
 
-**Skills:** Python · pandas · NumPy · SQL · Power BI · DAX · Excel · Tableau · ETL
+**Skills:** SQL · Python · pandas · NumPy · ETL · data modeling · data integration · Power BI · DAX · Excel · Tableau · Git
 
-Currently seeking my first data analyst role.
-Open to local, remote, and freelance opportunities.
+Currently seeking my first data engineer role. Open to local, remote, and freelance opportunities.
+
 
 ---
 
