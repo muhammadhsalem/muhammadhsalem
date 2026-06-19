@@ -1,5 +1,5 @@
 # Muhammad Hesham Salem
-### Data Analyst | Power BI · SQL · Python · Excel
+### Data Engineer | Data Analyst | SQL · Python · Power BI ·  Excel
 
 I turn raw data into clear decisions.
 Specializing in interactive dashboards, SQL reporting, and EDA.
